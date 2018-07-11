@@ -38,7 +38,7 @@ rules:
     -
       style: uppercase
   indentation:
-    - 2
+    - 'tab'
     -
       size: 'tab'
   property-sort-order:
