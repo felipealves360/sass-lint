@@ -18,6 +18,7 @@ files:
     - 'sass/vendor/**/*.*'
 # Rule Configuration
 rules:
+  include: true
   extends-before-mixins: 2
   extends-before-declarations: 2
   placeholder-in-extend: 2
